@@ -1,3 +1,7 @@
+
+#Brady Korsmo Thursday @2
+
+
 def right_arrow():
 
     base_char = input()

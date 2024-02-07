@@ -1,3 +1,6 @@
+#Brady Korsmo Thursday @2
+
+
 def telephone():
     
     ''' Type your code here. '''
@@ -5,13 +8,13 @@ def telephone():
     print('Enter number')
     phone_number = int(input())
 
-    area_code=phone_number//10000000
+    area_code=str(phone_number//10000000)
 
-    middle=(phone_number//10000)%10000
+    middle=str((phone_number//10000)%1000)
 
-    end=(phone_number%10000)
-
-    print('('+str(area_code)+') '+ str(middle)+ '-'+str(end))
+    end=str((phone_number%10000))
+    
+    print('('+(area_code)+') '+ (middle)+ '-'+(end))
 
     
 

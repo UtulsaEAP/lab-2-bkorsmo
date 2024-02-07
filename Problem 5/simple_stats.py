@@ -1,3 +1,5 @@
+#Brady Korsmo Thursday@2
+
 
 def simple_stats():
     print('Enter values: ')

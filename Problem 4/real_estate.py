@@ -1,4 +1,6 @@
 
+#Brady Korsmo Thursday @2
+
 def real_estate():
     
 
